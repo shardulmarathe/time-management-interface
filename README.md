@@ -1,4 +1,4 @@
-# time-management-interface
+# Time-Management-Interface
 ## Steps to add this repo. to your Finder or Windows Explorer
 #### Step 1
 Access your terminal and go to the folder you would like to add this project to
